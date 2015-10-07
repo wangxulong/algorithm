@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm-learn/algorithm-learn.iml" filepath="$PROJECT_DIR$/algorithm-learn/algorithm-learn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recursion-divide/recursion-divide.iml" filepath="$PROJECT_DIR$/recursion-divide/recursion-divide.iml" />
+    </modules>
+  </component>
+</project>
