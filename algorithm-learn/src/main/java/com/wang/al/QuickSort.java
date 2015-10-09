@@ -1,4 +1,4 @@
-package com.wang.core;
+package com.wang.al;
 
 import java.util.Date;
 
