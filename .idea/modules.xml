@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/algorithm.iml" filepath="$PROJECT_DIR$/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/algorithm-learn/algorithm-learn.iml" filepath="$PROJECT_DIR$/algorithm-learn/algorithm-learn.iml" />
       <module fileurl="file://$PROJECT_DIR$/recursion-divide/recursion-divide.iml" filepath="$PROJECT_DIR$/recursion-divide/recursion-divide.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-core/thread-core.iml" filepath="$PROJECT_DIR$/thread-core/thread-core.iml" />
     </modules>
   </component>
 </project>
