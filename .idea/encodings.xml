@@ -4,6 +4,8 @@
     <file url="file://$PROJECT_DIR$/algorithm-learn" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/algorithm-learn/src/main/java/com/wang/template/Coffee.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/algorithm-learn/src/main/java/com/wang/template/RefreshBeverage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recursion-divide/src/main/java/Factorial.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recursion-divide/src/main/java/IntegerPartition.java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
